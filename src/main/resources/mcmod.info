@@ -1,0 +1,16 @@
+[
+{
+  "modid": "omnisync",
+  "name": "Omnisync",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Daethalus"],
+  "credits": "Daethalus",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
